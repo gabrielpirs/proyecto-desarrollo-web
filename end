@@ -1,0 +1,30 @@
+[33mcommit 21c6d8c54df5819f0f1f085cfbcf396069880e31[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: fcd309c 91d0204
+Author: gabriel.pirs <gabriel.pirs@gmail.com>
+Date:   Mon Oct 24 21:00:46 2022 -0300
+
+    merge
+
+[33mcommit fcd309c97295745e9e53a3164e4a0f96a821e790[m
+Author: gabriel.pirs <gabriel.pirs@gmail.com>
+Date:   Mon Oct 24 20:56:34 2022 -0300
+
+    parrafo
+
+[33mcommit 91d0204b2fb28cf6e38c28a414d475861b914d6b[m[33m ([m[1;32mvictor[m[33m)[m
+Author: gabriel.pirs <gabriel.pirs@gmail.com>
+Date:   Mon Oct 24 20:46:10 2022 -0300
+
+    creamos un footer
+
+[33mcommit 7ee60c3fe5f2f8c134ee353b02741031ae7956c4[m
+Author: gabriel.pirs <gabriel.pirs@gmail.com>
+Date:   Mon Oct 24 20:30:51 2022 -0300
+
+    segundo commit
+
+[33mcommit d398343eb5fabb0d3607a720b72c15b915a25e01[m
+Author: gabriel.pirs <gabriel.pirs@gmail.com>
+Date:   Mon Oct 24 20:21:25 2022 -0300
+
+    creamos un h2, primer commit
